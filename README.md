@@ -6,7 +6,7 @@ finance and software development.
 
 ### 👨‍💻 About Me
 
-- 🎓 Graduated with a BA (Hons) in Business Management (Leadership & Innovation) - 2022 – The Open University, UK  
+- 🎓 BA (Hons) in Business Management (Leadership & Innovation) - 2022 – The Open University, UK  
 - 📜 Foundation Certificate in CFA (Chartered Financial Analyst)
 - 📊 AAT Level 2 (Accounting)  
 - 💻 Currently learning JavaScript and Python  
