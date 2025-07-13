@@ -31,4 +31,5 @@ Thanks for stopping by! Feel free to explore my projects and follow my learning 
 I'm always open to collaboration, feedback, and connecting with others in tech and finance.
 
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=sedazam&show_icons=true">
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sedazam&show_icons=true"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedazam&layout=compact"/>
