@@ -31,4 +31,4 @@ Thanks for stopping by! Feel free to explore my projects and follow my learning 
 I'm always open to collaboration, feedback, and connecting with others in tech and finance.
 
 
-[![Sed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedazam)](https://github.com/sedazam/github-readme-stats)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=sedazam&show_icons=true">
