@@ -25,7 +25,7 @@ I’m now diving deep into **JavaScript** and **Python** to turn ideas into real
 - 📊 AAT Level 2 (Accounting)  
 - 💻 Currently learning JavaScript and Python  
 - 🛠️ Fluent with VS Code and GitHub for development and version control  
-- 🎯 Career goal: Become a developer in the **fintech** industry, combining business insight with technical skills
+- 🎯 Career goal: Become a Front End Developer, combining business insight with technical skills
 
 ### 🚀 What I'm Working On
 
