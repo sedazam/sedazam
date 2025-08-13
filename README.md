@@ -33,12 +33,6 @@ I’m now diving deep into **JavaScript** and **Python** to turn ideas into real
 - Exploring how code can be used to automate tasks, analyse financial data, and solve problems  
 - Learning version control best practices and collaborating through GitHub
 
-### 📈 Future Goals
-
-- Secure a junior developer role in a fintech or tech-forward company  
-- Continue building full-stack development skills  
-- Use code to solve real-world financial and business problems
-
 ### 🌐 Let's Connect
 
 Thanks for stopping by! Feel free to explore my projects and follow my learning journey. 
