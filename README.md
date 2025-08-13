@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Sed
 
-Aspiring programmer with a background in Business Management, 
-now transitioning into tech to build a career at the intersection of 
-finance and software development.
+I speak two languages
+Business and Programming
+I’m on a mission to bring them together. 
+With a degree in Business Management and a solid foundation in finance, I’m now diving deep into JavaScript and Python to turn ideas into real, working software.
 
 ### 👨‍💻 About Me
 
