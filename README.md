@@ -1,9 +1,24 @@
 # 👋 Hi, I'm Sed
 
-I speak two languages
-Business and Programming
-I’m on a mission to bring them together. 
-With a degree in Business Management and a solid foundation in finance, I’m now diving deep into JavaScript and Python to turn ideas into real, working software.
+## 👋 Hey, I’m Sed
+
+``I speak two languages — Business and Programming.``  
+I’m on a mission to **bring them together**.  
+
+With a **BA (Hons) in Business Management** and a strong foundation in finance,  
+I’m now diving deep into **JavaScript** and **Python** to turn ideas into real, working software.  
+
+---
+
+**💡 Focus Areas**  
+- Fintech innovation  
+- Automation & data analysis  
+- Problem-solving through clean, maintainable code  
+
+**🛠 Tech Stack**  
+`JavaScript` `Python` `VS Code` `GitHub`
+
+---
 
 ### 👨‍💻 About Me
 
