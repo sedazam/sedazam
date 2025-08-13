@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Sed
 
-## 👋 Hey, I’m Sed
-
 ``I speak two languages — Business and Programming.``  
 I’m on a mission to **bring them together**.  
 
